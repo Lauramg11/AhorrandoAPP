@@ -1,0 +1,14 @@
+.fondo{
+    background-image: url("./img/ahorro-diario.webp");
+    padding: 25%;
+    background-position: top center;
+    background-size:cover;
+    background-attachment: fixed;
+}
+.menu{
+    background-color:#5296c475;
+}
+
+.colorfooter{
+    background-color: black;
+}
